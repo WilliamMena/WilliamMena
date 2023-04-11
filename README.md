@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Frameworks/Tools: Ruby on Rails, React, React Hooks, ASP.Net Core, Bootstrap, PostgreSQL, CSS GRID
 
 ## Current Position
-### Planet Argon, Remote
+### [Planet Argon](https://www.planetargon.com/), Remote
 #### Ruby on Rails Developer II, Nov 2021 - Current
 - Designed, developed and maintained applications using Ruby on Rails best practices
 - Managed relationships with a wide range of clients and their unique applications
