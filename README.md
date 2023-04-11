@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# William Mena
+[linkedin](https://www.linkedin.com/in/williammena/) | [video resume](https://vimeo.com/582791886)
+
+## TECHNICAL SKILLS
+- Languages: JavaScript, Ruby, HTML, CSS, GIT, C#, Java
+- Frameworks/Tools: Ruby on Rails, React, React Hooks, ASP.Net Core, Bootstrap, PostgreSQL, CSS GRID
+
+## PROFESSIONAL EXPERIENCE
+### Planet Argon, Remote
+#### Ruby on Rails Developer II, Nov 2021 - Current
+- Designed, developed and maintained applications using Ruby on Rails best practices
+- Managed relationships with a wide range of clients and their unique applications
+- Documented technical processes to aid knowledge transfer and ensure consistency
+
