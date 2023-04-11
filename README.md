@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Languages: JavaScript, Ruby, HTML, CSS, GIT, C#, Java
 - Frameworks/Tools: Ruby on Rails, React, React Hooks, ASP.Net Core, Bootstrap, PostgreSQL, CSS GRID
 
-## PROFESSIONAL EXPERIENCE
+## Current Position
 ### Planet Argon, Remote
 #### Ruby on Rails Developer II, Nov 2021 - Current
 - Designed, developed and maintained applications using Ruby on Rails best practices
