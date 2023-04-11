@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **WilliamMena/WilliamMena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # William Mena
-[linkedin](https://www.linkedin.com/in/williammena/) | [video resume](https://vimeo.com/582791886)
+[resume](https://github.com/WilliamMena/WilliamMena/blob/main/resume.md) | [linkedin](https://www.linkedin.com/in/williammena/) | [video resume](https://vimeo.com/582791886)
 
 ## TECHNICAL SKILLS
 - Languages: JavaScript, Ruby, HTML, CSS, GIT, C#, Java
