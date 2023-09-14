@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # William Mena
-646-548-8007 | williammena1991@gmail.com | [williammena.com](https://williammena.com/) | [github](https://github.com/williammena) | [linkedin](https://www.linkedin.com/in/williammena/) | [video resume](https://vimeo.com/582791886)
+646-548-8007 | williammena1991@gmail.com | [PDF Resume](https://docs.google.com/presentation/d/1QEp-0A--ozWF5OeTMTVGfLCS-FoMQN_qNXV9nan9u4Q/edit?usp=sharing) | [github](https://github.com/williammena) | [linkedin](https://www.linkedin.com/in/williammena/) | [video resume](https://vimeo.com/582791886)
 
 ## TECHNICAL SKILLS
 - Languages: JavaScript, Ruby, HTML, CSS, GIT, C#, Java
