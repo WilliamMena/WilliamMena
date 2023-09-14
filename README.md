@@ -19,13 +19,18 @@ Here are some ideas to get you started:
 [resume](https://github.com/WilliamMena/WilliamMena/blob/main/resume.md) | [linkedin](https://www.linkedin.com/in/williammena/) | [video resume](https://vimeo.com/582791886)
 
 ## TECHNICAL SKILLS
-- Languages: JavaScript, Ruby, HTML, CSS, GIT, C#, Java
+- Languages: Ruby, JavaScript, HTML, CSS, GIT, C#, Java
 - Frameworks/Tools: Ruby on Rails, React, React Hooks, ASP.Net Core, Bootstrap, PostgreSQL, CSS GRID
 
 ## Current Position
 ### [Planet Argon](https://www.planetargon.com/), Remote
 #### Ruby on Rails Developer II, Nov 2021 - Current
-- Designed, developed and maintained applications using Ruby on Rails best practices
+- Designed, developed and maintained multiple applications using Ruby on Rails best practices
+- Integrated Microsoft SQL Server using containerization and the TinyTDS gem within a Rails web app
+- Reconfigured a Linux server to handle the swapping of a complex code repository
+- Implemented user-triggered email delays and conducted A/B testing for live feature testing
 - Managed relationships with a wide range of clients and their unique applications
-- Documented technical processes to aid knowledge transfer and ensure consistency
+- Documented processes and encouraged regular ReadMe updates for knowledge transfer and consistency
+- Started AWS and DevOps self-learning for enhanced self-sufficiency and holistic software insight
+
 
