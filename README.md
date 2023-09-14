@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # William Mena
-[resume](https://github.com/WilliamMena/WilliamMena/blob/main/resume.md) | [linkedin](https://www.linkedin.com/in/williammena/) | [video resume](https://vimeo.com/582791886)
+[full resume](https://github.com/WilliamMena/WilliamMena/blob/main/resume.md) | [linkedin](https://www.linkedin.com/in/williammena/) | [video resume](https://vimeo.com/582791886)
 
 ## TECHNICAL SKILLS
 - Languages: Ruby, JavaScript, HTML, CSS, GIT, C#, Java
