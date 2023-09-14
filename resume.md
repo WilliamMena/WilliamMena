@@ -26,16 +26,21 @@ Here are some ideas to get you started:
 ## PROFESSIONAL EXPERIENCE
 ### Planet Argon, Remote
 #### Ruby on Rails Developer II, Nov 2021 - Current
-- Designed, developed and maintained applications using Ruby on Rails best practices
+- Designed, developed, and maintained multiple applications using Ruby on Rails best practices
+- Integrated Microsoft SQL Server using containerization and the TinyTDS gem within a Rails web app
+- Reconfigured a Linux server to handle the swapping of a complex code repository
+- Implemented user-triggered email delays and conducted A/B testing for live feature testing
 - Managed relationships with a wide range of clients and their unique applications
-- Documented technical processes to aid knowledge transfer and ensure consistency
+- Documented processes and encouraged regular ReadMe updates for knowledge transfer and consistency
+- Started AWS and DevOps self-learning for enhanced self-sufficiency and holistic software insight
+
 
 ### Infosys/The Hartford (Insurance), Hartford, Connecticut
 #### Senior Associate Engineer, Dec 2018 - Nov 2021
 - Supported a client facing and user facing application, analyzing issues and implementing fixes/changes
-- Designed Rally extensions in JS using SDK and external API for Rally SCRUM projects
-- Worked with third-party services to resolve bugs and upgrade API services in ASP.Net
-- Organized and executed Business Object upgrade for several environments
+- Designed custom tools for our Product Management software using external SDK and API
+- Worked with error and application monitoring software to resolve bugs and improve API speeds in ASP.Net
+- Organized and executed Business Object upgrades for several environments
 - Built SQL scripts for finding and manipulating errors and mass DB adjustments
 
 ### World Science Festival, Manhattan, New York
@@ -52,8 +57,8 @@ Here are some ideas to get you started:
 ## TECHNICAL PROJECTS
 ### EEG Movies - [Video Github](https://github.com/williammena/eeg-movies)
 - Built using React (hooks) for quick and seamless implementation of movies
-- Implemented universal search bar that will search and filter all data
-- Full CRUD functionality. Creating, updating, deleting of all movies and every attribute.
+- Implemented a universal search bar that will search and filter all data
+- Full CRUD functionality. Creating, updating, and deleting all movies and every attribute.
 
 ### Script Splitter - [Video Github](https://github.com/williammena/script-splitter)
 - Developed Rails 5 API to hold all scripts and the rest of the backend data
@@ -61,13 +66,13 @@ Here are some ideas to get you started:
 - Formed a Preview of your script/subtitles on the homepage before saving to the user profile
 
 ### Pipeline Stock App - [GitHub](https://github.com/williammena/pipeline-stock-app)
-- Home page presents the users current portfolio value and each stocks daily performance
+- Home page presents the user's current portfolio value and each stock's daily performance
 - Developed a cache to reduce the amount of API calls across all users. Limit to 1 call a minute per stock
 - Fetches from the IEX API for current details on all stocks like market open to even the year
 
 ### Sheridan Frontend - [Live Link](https://sheridan-frontend.netlify.app/)
 - Fully Responsive website using Bootstrap
-- Followed PDF wireframe to build website in full HTML/CSS
+- Followed PDF wireframe to build the website in full HTML/CSS
 
 ## EDUCATION
 
