@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## TECHNICAL SKILLS
 - Languages: Ruby, JavaScript, HTML, CSS, GIT, C#, Java
-- Frameworks/Tools: Ruby on Rails, React, React Hooks, ASP.Net Core, Bootstrap, PostgreSQL, CSS GRID
+- Frameworks/Tools: Ruby on Rails (Full-stack and API), PostgreSQL, Redis, React, React Hooks, ASP.Net Core
 
 ## Current Position
 ### [Planet Argon](https://www.planetargon.com/), Remote
