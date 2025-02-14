@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 - Integrated Microsoft SQL Server using containerization and the TinyTDS gem within a Rails web app
 - Reconfigured a Linux server to handle the swapping of a complex code repository
 - Implemented user-triggered email delays and conducted A/B testing for live feature testing
-- Integrated and managed Stripe and PayPal payment systems, ensuring secure and seamless transactions.
-- Developed custom Salesforce functionality in Java, streamlining workflows and automating key processes.
+- Integrated and managed Stripe and PayPal payment systems, ensuring secure and seamless transactions
+- Developed custom Salesforce functionality in Java, streamlining workflows and automating key processes
 - Managed relationships with a wide range of clients and their unique applications
 - Documented processes and encouraged regular ReadMe updates for knowledge transfer and consistency
 - Started AWS and DevOps self-learning for enhanced self-sufficiency and holistic software insight
